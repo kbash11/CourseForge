@@ -1,6 +1,3 @@
-Here’s the README content formatted with proper Markdown for GitHub:
-
----
 
 # **CourseForge**
 
